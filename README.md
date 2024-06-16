@@ -13,7 +13,7 @@
 		`phishlets enable github `
 
 5.Optinal(Dev mode\Local Mode)
-		phishlets get-hosts github
+		`phishlets get-hosts github`
 
 		127.0.0.1 github.io.fake.com
 		127.0.0.1 api.github.io.fake.com
