@@ -29,5 +29,7 @@
 8.Get the Lures URLs
 		`lures get-urls 0 (id .i.e 0)`
 
+** `For CA Certi search this  %USERPROFILE%  and install ca.certi`
+
 9.Get Cookies/Sessions
 		` sessions Id`
