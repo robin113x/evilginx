@@ -1,5 +1,6 @@
 # evilginx
-
+0.To capure session Cookies : 
+		` set cookies always --> keys: ['user_session:always']`
 
 1.Setup domain
 		`config domain fake.com/custom domain`
